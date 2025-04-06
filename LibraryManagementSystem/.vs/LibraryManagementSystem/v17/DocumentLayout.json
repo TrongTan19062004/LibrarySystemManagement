@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\tan\\source\\repos\\librarymanagementsystem\\presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\truc mai\\desktop\\librarysystemmanagement\\librarymanagementsystem\\presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D21030-B127-4488-9F63-C82EEB655FA0}|TransferObject\\TransferObject.csproj|c:\\users\\tan\\source\\repos\\librarymanagementsystem\\transferobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D21030-B127-4488-9F63-C82EEB655FA0}|TransferObject\\TransferObject.csproj|solutionrelative:transferobject\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B10D401-46D9-442D-B542-DFD9EBC1C2E9}|DataLayer\\DataLayer.csproj|c:\\users\\tan\\source\\repos\\librarymanagementsystem\\datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B10D401-46D9-442D-B542-DFD9EBC1C2E9}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0DC2BC-F44B-46CE-845A-3550A52BC4BD}|BussinessLayer\\BussinessLayer.csproj|c:\\users\\tan\\source\\repos\\librarymanagementsystem\\bussinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0DC2BC-F44B-46CE-845A-3550A52BC4BD}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\TransferObject\\Class1.cs",
-              "RelativeDocumentMoniker": "TransferObject\\Class1.cs",
-              "ToolTip": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\TransferObject\\Class1.cs",
-              "RelativeToolTip": "TransferObject\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Register.cs",
+              "ToolTip": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs",
+              "RelativeToolTip": "PresentationLayer\\Register.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:15:42.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\DataLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Class1.cs",
-              "ToolTip": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\DataLayer\\Class1.cs",
-              "RelativeToolTip": "DataLayer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:15:04.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\BussinessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "BussinessLayer\\Class1.cs",
-              "ToolTip": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\BussinessLayer\\Class1.cs",
-              "RelativeToolTip": "BussinessLayer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:14:23.037Z",
+              "WhenOpened": "2025-04-06T03:00:31.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\PresentationLayer\\Form1.cs",
-              "RelativeDocumentMoniker": "PresentationLayer\\Form1.cs",
-              "ToolTip": "C:\\Users\\TAN\\source\\repos\\LibraryManagementSystem\\PresentationLayer\\Form1.cs [Design]",
-              "RelativeToolTip": "PresentationLayer\\Form1.cs [Design]",
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Register.cs",
+              "ToolTip": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T10:11:44.576Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

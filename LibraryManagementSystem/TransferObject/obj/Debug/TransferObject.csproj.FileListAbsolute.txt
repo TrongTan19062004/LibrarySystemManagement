@@ -1,0 +1,6 @@
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\TransferObject\bin\Debug\TransferObject.dll
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\TransferObject\bin\Debug\TransferObject.pdb
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\TransferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\TransferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\TransferObject\obj\Debug\TransferObject.dll
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\TransferObject\obj\Debug\TransferObject.pdb
