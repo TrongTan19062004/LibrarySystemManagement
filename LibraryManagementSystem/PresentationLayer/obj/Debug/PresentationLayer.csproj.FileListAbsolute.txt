@@ -13,3 +13,12 @@ C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\Presen
 C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
 C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
 C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Truc Mai\Desktop\LibrarySystemManagement\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Reader_Management.resources

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\truc mai\\desktop\\librarysystemmanagement\\librarymanagementsystem\\presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\truc mai\\desktop\\librarysystemmanagement\\librarymanagementsystem\\presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\presentationlayer\\reader_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\reader_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\truc mai\\desktop\\librarysystemmanagement\\librarymanagementsystem\\presentationlayer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{476EA72E-FC74-469B-A3BF-863C944A521D}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +34,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\LoginForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T17:06:30.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Reader_Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Reader_Management.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Reader_Management.cs",
+              "ToolTip": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Reader_Management.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Reader_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:58:26.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Register.cs",
               "ToolTip": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs",
               "RelativeToolTip": "PresentationLayer\\Register.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T03:00:31.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Truc Mai\\Desktop\\LibrarySystemManagement\\LibraryManagementSystem\\PresentationLayer\\Register.cs",
               "RelativeDocumentMoniker": "PresentationLayer\\Register.cs",
