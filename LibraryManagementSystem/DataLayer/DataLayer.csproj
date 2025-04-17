@@ -42,6 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="DataProvier.cs" />
+    <Compile Include="NguoiDungDL.cs" />
+>>>>>>> Tan
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

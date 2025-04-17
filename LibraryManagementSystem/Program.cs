@@ -16,11 +16,7 @@ namespace PresentationLayer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
             Application.Run(new Register());
-=======
-            Application.Run(new SignIn());
->>>>>>> Tan
         }
     }
 }

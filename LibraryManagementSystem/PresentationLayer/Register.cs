@@ -2,11 +2,17 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+<<<<<<< HEAD
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+=======
+using System.Drawing;
+using System.Linq;
+using System.Text;
+>>>>>>> Tan
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -14,12 +20,16 @@ namespace PresentationLayer
 {
     public partial class Register : Form
     {
+<<<<<<< HEAD
         String cnn = "Data Source=LAPTOP-IRQBKCBQ;Initial Catalog=LibraryManagementDatabase;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True";
+=======
+>>>>>>> Tan
         public Register()
         {
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         private void signUp_btn_Click(object sender, EventArgs e)
         {
                 string userId = GenerateUserId();
@@ -119,6 +129,11 @@ namespace PresentationLayer
             reg_pass.Clear();
             reg_confirm.Clear();
             reg_birthdate.Value = DateTime.Now;
+=======
+        private void Register_Load(object sender, EventArgs e)
+        {
+
+>>>>>>> Tan
         }
     }
 }
