@@ -1,0 +1,14 @@
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\TransferObject.dll
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\BussinessLayer.dll
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\TransferObject.pdb
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\TAN\Downloads\LibrarySystemManagement-Tan\LibraryManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
